@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/riyariarora-bit/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/riyariarora-bit/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/riyariarora-bit/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/riyariarora-bit/Leetcode/tree/master/0015-3sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyariarora-bit/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -103,8 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riyariarora-bit/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/riyariarora-bit/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/riyariarora-bit/Leetcode/tree/master/0015-3sum) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/riyariarora-bit/Leetcode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/riyariarora-bit/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
