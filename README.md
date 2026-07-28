@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/riyariarora-bit/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/riyariarora-bit/Leetcode/tree/master/0038-count-and-say) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyariarora-bit/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/riyariarora-bit/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/riyariarora-bit/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/riyariarora-bit/Leetcode/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyariarora-bit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/riyariarora-bit/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/riyariarora-bit/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/riyariarora-bit/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
