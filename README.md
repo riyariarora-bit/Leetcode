@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/riyariarora-bit/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/riyariarora-bit/Leetcode/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyariarora-bit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyariarora-bit/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/riyariarora-bit/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/riyariarora-bit/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/riyariarora-bit/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/riyariarora-bit/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/riyariarora-bit/Leetcode/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyariarora-bit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyariarora-bit/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/riyariarora-bit/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/riyariarora-bit/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/riyariarora-bit/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/riyariarora-bit/Leetcode/tree/master/0048-rotate-image) |
 ## String Matching
 |  |
 | ------- |
