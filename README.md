@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/riyariarora-bit/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/riyariarora-bit/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0047-permutations-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyariarora-bit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyariarora-bit/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/riyariarora-bit/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/riyariarora-bit/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/riyariarora-bit/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0047-permutations-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/riyariarora-bit/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/riyariarora-bit/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/riyariarora-bit/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0047-permutations-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyariarora-bit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/riyariarora-bit/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
