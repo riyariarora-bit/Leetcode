@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/riyariarora-bit/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/riyariarora-bit/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/riyariarora-bit/Leetcode/tree/master/0051-n-queens) |
 | [0486-predict-the-winner](https://github.com/riyariarora-bit/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyariarora-bit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/riyariarora-bit/Leetcode/tree/master/0877-stone-game) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/riyariarora-bit/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/riyariarora-bit/Leetcode/tree/master/0051-n-queens) |
 ## Linked List
 |  |
 | ------- |
