@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/riyariarora-bit/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/riyariarora-bit/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0052-n-queens-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
@@ -281,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/riyariarora-bit/Leetcode/tree/master/1406-stone-game-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
