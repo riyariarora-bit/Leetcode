@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/riyariarora-bit/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/riyariarora-bit/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/riyariarora-bit/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/riyariarora-bit/Leetcode/tree/master/0054-spiral-matrix) |
 | [0486-predict-the-winner](https://github.com/riyariarora-bit/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyariarora-bit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/riyariarora-bit/Leetcode/tree/master/0877-stone-game) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/riyariarora-bit/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/riyariarora-bit/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/riyariarora-bit/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/riyariarora-bit/Leetcode/tree/master/0054-spiral-matrix) |
 ## String Matching
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/riyariarora-bit/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/riyariarora-bit/Leetcode/tree/master/0054-spiral-matrix) |
 ## Combinatorics
 |  |
 | ------- |
