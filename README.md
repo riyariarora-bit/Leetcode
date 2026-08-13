@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/riyariarora-bit/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/riyariarora-bit/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/riyariarora-bit/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/riyariarora-bit/Leetcode/tree/master/0057-insert-interval) |
 | [0486-predict-the-winner](https://github.com/riyariarora-bit/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyariarora-bit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/riyariarora-bit/Leetcode/tree/master/0877-stone-game) |
