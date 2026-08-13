@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/riyariarora-bit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/riyariarora-bit/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/riyariarora-bit/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/riyariarora-bit/Leetcode/tree/master/0056-merge-intervals) |
 | [0486-predict-the-winner](https://github.com/riyariarora-bit/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyariarora-bit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/riyariarora-bit/Leetcode/tree/master/0877-stone-game) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/riyariarora-bit/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/riyariarora-bit/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/riyariarora-bit/Leetcode/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyariarora-bit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/riyariarora-bit/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/riyariarora-bit/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/riyariarora-bit/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
