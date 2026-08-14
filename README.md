@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/riyariarora-bit/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/riyariarora-bit/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/riyariarora-bit/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/riyariarora-bit/Leetcode/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/riyariarora-bit/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyariarora-bit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/riyariarora-bit/Leetcode/tree/master/0877-stone-game) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/riyariarora-bit/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/riyariarora-bit/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/riyariarora-bit/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/riyariarora-bit/Leetcode/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/riyariarora-bit/Leetcode/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
