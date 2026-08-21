@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/riyariarora-bit/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/riyariarora-bit/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0217-contains-duplicate](https://github.com/riyariarora-bit/Leetcode/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/riyariarora-bit/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyariarora-bit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/riyariarora-bit/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/riyariarora-bit/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/riyariarora-bit/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0486-predict-the-winner](https://github.com/riyariarora-bit/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/riyariarora-bit/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/1140-stone-game-ii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/riyariarora-bit/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/riyariarora-bit/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0063-unique-paths-ii) |
 ## String Matching
 |  |
 | ------- |
