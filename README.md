@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/riyariarora-bit/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/riyariarora-bit/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/riyariarora-bit/Leetcode/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/riyariarora-bit/Leetcode/tree/master/0065-valid-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyariarora-bit/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/riyariarora-bit/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/riyariarora-bit/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
