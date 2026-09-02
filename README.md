@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/riyariarora-bit/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/riyariarora-bit/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/riyariarora-bit/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/riyariarora-bit/Leetcode/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/riyariarora-bit/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyariarora-bit/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/riyariarora-bit/Leetcode/tree/master/0877-stone-game) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/riyariarora-bit/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/riyariarora-bit/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/riyariarora-bit/Leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/riyariarora-bit/Leetcode/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyariarora-bit/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/riyariarora-bit/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/riyariarora-bit/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/riyariarora-bit/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/riyariarora-bit/Leetcode/tree/master/0067-add-binary) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/riyariarora-bit/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/riyariarora-bit/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/riyariarora-bit/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/riyariarora-bit/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/riyariarora-bit/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/riyariarora-bit/Leetcode/tree/master/0067-add-binary) |
 ## Combinatorics
 |  |
 | ------- |
